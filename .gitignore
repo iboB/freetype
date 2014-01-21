@@ -1,0 +1,8 @@
+# intermediate and lib files
+objs/
+
+# visual studio specific
+*.suo
+*.sdf
+*.opensdf
+*.ncb
