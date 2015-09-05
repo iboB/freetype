@@ -12,3 +12,5 @@ Fork notes
 
 * Added Visual Studio 2013 solution and project files (based on the ones for
 VS2010)
+* Changed the CMakeLists.txt file to a simplified one with no installation, and
+using the default config
